@@ -1,12 +1,12 @@
 ## Hi there! 👋
 
-🏳️‍🌈 Pronouns: He/Him<br>
+🏳️‍🌈 He/Him<br>
 🏢 Started at @ [Selectra](https://selectra.com/) in June 2014<br>
 👨‍💻 SysOps Engineer Director since April 2019<br>
 💎 ex-Ruby/Rails developer<br>
 🚴‍♂️ Remote worker in France, Roubaix<br>
 🌐 [victorbersy.com](https://victorbersy.com/) // [blog.victorbersy.com](https://blog.victorbersy.com/)<br>
-✉️ Personnal: victor.bersy@hey.com<br>
+✉️ victor.bersy@hey.com<br>
 
 ## Who am I? 😊
 I'm Victor, a SysOps Engineer working from home, in France. 
