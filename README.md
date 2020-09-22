@@ -17,9 +17,9 @@ I'm working at @ [Selectra](https://selectra.com/), currently migrating our whol
 
 I find joy in automation and giving the right tools to our teams to learn about how their apps are running. Finding performances issues, no matter where they are, and fixing them is one of my favorite thing. You can count on me to make some cool graphs showing the improvements! 📊
 
-I like to write internal posts to explain in details what I'm working on, my findings, how is it going to help, etc... I use Basecamp to write and share them, but also to easily manage all my work. I'm a strong believer in asynchronous communication for most of our work.
+I like to write internal posts to explain in details what I'm working on, my findings, how is it going to help, etc... I use Basecamp to write and share them, but also to easily manage all my work. I'm also a strong believer in asynchronous communication for most of our work.
 
 ## Get in touch 🤝
 
 ✉️ Personnal: victor.bersy@hey.com<br>
-🐦 Twitter: [twitter.com/VictorBersy](https://twitter.com/VictorBersy)
+🐦 Twitter: [twitter.com/VictorBersy](https://twitter.com/VictorBersy)<br>
